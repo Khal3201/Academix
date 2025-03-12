@@ -24,7 +24,7 @@
    
 2. **Instalar librerias**:
    ```bash
-   pip install plyer, pillow
+   pip install plyer pillow
 
 3. **Ejecutar la aplicación**:
    -abrir folder del repositorio en visual studio code
